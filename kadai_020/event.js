@@ -9,7 +9,4 @@ btn.addEventListener('click',() =>{
 
   // textの文字を変更する
   text.textContent = 'ボタンをクリックしました'
-  
-  // 変更したtextを表示する
-  document.appendChild(text);
-} )
+} );
